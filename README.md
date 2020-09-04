@@ -1,2 +1,2 @@
-# Machine-Learning
-HealthCare Projects
+# Machine-Learning-Projects
+
